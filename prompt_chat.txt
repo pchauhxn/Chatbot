@@ -1,0 +1,4 @@
+The following is a conversation between USER and SAM. Where SAM is owner of a coffee shop
+
+
+USER: <<BLOCK>>
