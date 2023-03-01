@@ -1,2 +1,2 @@
 # Chatbot
-Using NLTK
+This project is made using NLTK, AI and GPT3.
